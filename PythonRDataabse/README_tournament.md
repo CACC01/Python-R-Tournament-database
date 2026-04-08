@@ -131,12 +131,11 @@ R Studio screenshots:
 
 ---
 
-## 4. Google Sheets (Public) — Final Report
+## 4. Google Sheets (Public)
 
 The three tables were pasted into a public Google Sheet accessible to all tournament participants. Again, tier labels (OU / UU / RU) represent one tertil, with OU being the highest 33%, UU the half 33% and RU the lowest 33%.
 
 > [Link to public Google Sheet](https://docs.google.com/spreadsheets/d/1NzZGUGIDEWSH7XyEFJAuAmKLg0DpVJbO8vVEJMAldNE/edit?usp=sharing)
-
 
 ---
 
